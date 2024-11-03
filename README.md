@@ -30,7 +30,7 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 </p>
 
 <div align="center">
-  <img align="center" src="https://github.com/simran1devloper/simran1devloper/blob/main/profile.png" height="150" alt="Developer" />
+  <img align="center" src="https://github.com/simran1devloper/simran1devloper/blob/main/Profile_photo.jpg" height="150" alt="Developer" />
 </div>
 
 ---
