@@ -123,10 +123,10 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/devanshu-raj-460180318/" target="_blank">
+  <a href="https://www.linkedin.com/in/simran-%E2%80%8E-1245a12b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:devs.raj.101@gmail.com">
+  <a href="mailto:simran.101.simran.1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
