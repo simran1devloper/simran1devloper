@@ -1,25 +1,25 @@
-<h1 align="center">Hi there 👋, I'm Devanshu Raj!</h1>
+<h1 align="center">Hi there 👋, I'm Simran</h1>
 <p align="center">🚀 Passionate Software Engineer | AI & ML Enthusiast | IoT Specialist</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=redd-hope&label=Profile%20views&color=0e75b6&style=flat-square" alt="redd-hope" />
+  <img src="https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20views&color=0e75b6&style=flat-square" alt="simran1devloper" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=redd-hope&theme=dracula&no-frame=true&margin-w=15" alt="redd-hope trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=simran1devloper&theme=dracula&no-frame=true&margin-w=15" alt="simran1devloper trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redd-hope&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran1devloper&theme=dracula" alt="GitHub Streak" />
 </p>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=redd-hope&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redd-hope&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1devloper&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -30,7 +30,7 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 </p>
 
 <div align="center">
-  <img align="center" src="https://github.com/Redd-hope/Redd-hope/blob/main/profile.png" height="150" alt="Developer" />
+  <img align="center" src="https://github.com/simran1devloper/simran1devloper/blob/main/profile.png" height="150" alt="Developer" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
   <a href="https://huggingface.co/Dev101Wow" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FF4F00&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://github.com/Redd-hope" target="_blank">
+  <a href="https://github.com/simran1devloper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="#" target="_blank">
