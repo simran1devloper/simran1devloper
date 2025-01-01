@@ -70,29 +70,30 @@ I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML
 
 <h2 align="center">💼 Projects</h2>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/58354696/132851545-d6ebc5d5-bd02-4e72-98b1-0dc8ad2b6850.gif" width="800" alt="projects graphic" />
-</div>
 
-### Software Development & Web Technologies
-- **TechSynth Website**: Integrated Web3, blockchain, AR-VR, and AI-ML-DL technologies.
-- **NGO Website**: Developed a site for a non-governmental organization using React.
-- **Yoga Website**: Built a yoga scheduling platform in Angular.
-- **Payline Site**: Blockchain-based payment platform using React and Node.js.
 
-### AI/ML/DL & Data Science
-- **Finance Mitigation Model**: Developed a sophisticated financial risk system with LangChain, TensorFlow, and PyTorch.
-- **Waste Segregation Tool**: Engineered a hybrid system using Vision Transformer, YOLO, and Blockchain for waste detection.
+![projects graphic](https://user-images.githubusercontent.com/58354696/132851545-d6ebc5d5-bd02-4e72-98b1-0dc8ad2b6850.gif)
 
-### IoT & Embedded Systems
-- **AI-Driven Drone**: Designed a drone with AI-based PID control using Raspberry Pi.
-- **Water Level Detector**: Created an IoT solution for water level monitoring with Arduino.
+## **AI/ML/DL & Data Science**
+- **[Finance Mitigation Platform](#)**: Built and optimized 12 AI models for financial risk analysis using PyTorch and LangChain, integrated with LLM-based generative models for forecasting and insights.
+- **[Demand Forecasting and Optimization](#)**: Developed data pipelines and predictive models for demand forecasting and price optimization, achieving measurable revenue improvements using TensorFlow and SQL.
+- **[Customer Analytics Platform](#)**: Developed pipelines for cleaning, processing, and analyzing customer transactional data, extracting actionable insights to enhance retention strategies using Python, R, and Tableau.
+- **[LLM-Based NLP Platform](#)**: Designed and implemented NLP models using Hugging Face and PyTorch for automated text processing and analysis, integrated with CI/CD pipelines for model deployment.
 
-### Blockchain Projects
-- **Sikka Blockchain**: Developed a blockchain system from scratch with Node.js.
-- **Save Tree Coin**: Created a cryptocurrency for environmental initiatives.
+## **Software Development & Web Technologies**
+- **[TechSynth Website](#)**: Integrated Web3, blockchain, AR-VR, and AI-ML-DL technologies to create an interactive, advanced platform.
+- **[NGO Website](#)**: Developed a responsive website for an NGO using React to increase engagement and visibility.
+- **[Yoga Website](#)**: Built a user-friendly yoga scheduling platform using Angular, improving customer booking experiences.
+- **[Payline Site](#)**: Developed a blockchain-based payment platform using React and Node.js, leveraging cryptocurrency for secure transactions.
 
----
+## **IoT & Embedded Systems**
+- **[AI-Driven Drone](#)**: Designed an autonomous drone with AI-based PID control using Raspberry Pi, improving flight stability and accuracy.
+- **[Water Level Detector](#)**: Created an IoT solution for real-time water level monitoring using Arduino, providing timely alerts for water management.
+
+## **Blockchain Projects**
+- **[Sikka Blockchain](#)**: Developed a blockchain system from scratch with Node.js for secure, transparent transactions.
+- **[Save Tree Coin](#)**: Created a cryptocurrency for supporting environmental initiatives, promoting sustainability through decentralized finance.
+
 
 <h2 align="center">🏆 Hackathons</h2>
 
