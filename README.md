@@ -36,7 +36,10 @@ A passionate **Software Engineer** with over **3 years of experience** in **AI, 
 📊 **Fun Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simran1devloper&theme=dracula)  
 ![Profile Views](https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20Views&color=0e75b6&style=flat-square)  
-
+div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1devloper&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
+</div>
 ---
 
 
@@ -211,7 +214,7 @@ Currently delving into:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> 
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos_003.png" alt="matplotlib" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
@@ -222,7 +225,7 @@ Currently delving into:
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Apache_Hadoop_logo.svg" alt="hadoop" width="40" height="40"/> 
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
@@ -245,13 +248,13 @@ Currently delving into:
   
   <!-- Data Analyst -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.tableau.com/sites/default/files/pages/tableau_tablet_0.png" alt="tableau" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Microsoft_Excel_Logo_%282013-2019%29.png" alt="excel" width="40" height="40"/> 
   </a>
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="sqlalchemy" width="40" height="40"/> 
@@ -262,7 +265,7 @@ Currently delving into:
   
   <!-- NLP, LLM, LangChain, Gen AI -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/huggingface/transformers/master/docs/source/imgs/transformers_logo_name.png" alt="huggingface" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hugging_Face_logo.svg/512px-Hugging_Face_logo.svg.png" alt="huggingface" width="40" height="40"/> 
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="openai" width="40" height="40"/> 
@@ -271,7 +274,7 @@ Currently delving into:
     <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/logo.png" alt="langchain" width="40" height="40"/> 
   </a>
   <a href="https://www.tensorflow.org/generative" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="generative_ai" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/TensorFlow_logo.svg" alt="generative_ai" width="40" height="40"/> 
   </a>
 </p>
 
