@@ -165,31 +165,6 @@ Currently delving into:
 
 ### 🌐 Visit My Profiles
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.kaggle.com/devanshuraj101" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://huggingface.co/Dev101Wow" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FF4F00&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/simran1devloper" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Blog&logo=medium&label=&color=00AB6C&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
-
-<br clear="both">
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Data Scientist -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -277,6 +252,7 @@ Currently delving into:
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/TensorFlow_logo.svg" alt="generative_ai" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 
