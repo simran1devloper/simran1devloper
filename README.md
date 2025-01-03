@@ -223,7 +223,7 @@ Currently delving into:
   
   <!-- Data Analyst -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021" alt="powerbi" width="40" height="40"/> 
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.tableau.com/sites/default/files/pages/tableau_tablet_0.png" alt="tableau" width="40" height="40"/> 
