@@ -1,114 +1,77 @@
-<h1 align="center">Hi there 👋, I'm Simran</h1>
-<p align="center">🚀 Passionate Software Engineer | AI & ML Enthusiast | IoT Specialist</p>
+# 💼 Welcome to My GitHub Profile!  
+
+## 👨‍💻 About Me  
+
+I'm a passionate Software Engineer with 3+ years of experience in **AI, ML, and DL**. I enjoy tackling challenges in software engineering, data analysis, and data engineering, finding insights from data, and building robust machine learning models.  
+
+As an **ML Engineer**, I specialize in developing, training, and deploying machine learning models for real-world applications. My focus includes optimizing models for performance and scalability while leveraging advanced techniques in artificial intelligence.  
+
+As a **Data Engineer**, I have expertise in designing and maintaining efficient data pipelines, ensuring data quality and integrity, and enabling seamless integration of data across platforms for analytics and decision-making.  
+
+I'm dedicated to learning and building secure, efficient, and scalable systems while continuously expanding my knowledge and skill set.  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20views&color=0e75b6&style=flat-square" alt="simran1devloper" />
-</p>
+## 💻 Technical Skills  
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=simran1devloper&theme=dracula&no-frame=true&margin-w=15" alt="simran1devloper trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simran1devloper&theme=dracula" alt="GitHub Streak" />
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1devloper&layout=compact&langs_count=8&theme=dracula" height="180" alt="Top Languages" />
-</div>
+### Core Expertise  
+- **Programming Languages**: Python, R, SQL, JavaScript  
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn  
+- **Deep Learning**: Keras, Vision Transformers, LSTMs, GANs  
+- **Data Engineering**: Apache Airflow, Apache Kafka, Spark, ETL Pipelines  
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Cloud Platforms**: AWS (S3, EC2, Lambda), Azure ML, GCP  
+- **DevOps Tools**: Docker, Kubernetes, Jenkins  
+- **Version Control**: Git, GitHub, GitLab  
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-I'm a passionate Software Engineer with 3+ years of experience in <strong>AI, ML, DL, and IoT</strong>. I enjoy tackling challenges in software engineering, embedded systems, and web development. My focus is on learning and building secure, efficient, and scalable systems while continuously expanding my knowledge.
-</p>
+## 🏆 Highlights of My Work  
 
-<div align="center">
-  <img align="center" src="https://github.com/simran1devloper/simran1devloper/blob/main/Profile_photo.jpg" height="150" alt="Developer" />
-</div>
+- **ML/DL Projects**:  
+  - Built a predictive loan repayment model using RandomForestClassifier with FastAPI integration.  
+  - Developed a fine-tuned YOLOv8 model for waste detection and classification into recyclable/non-recyclable categories.  
+  - Designed a Vision Transformer (ViT) for fire and smoke detection datasets.  
 
----
+- **Data Engineering Projects**:  
+  - Implemented ETL pipelines to integrate and preprocess large financial datasets for fraud detection.  
+  - Automated data workflows with Apache Airflow to streamline data analytics for business insights.  
 
-<h2 align="center">💡 Technical Skills</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-</div>
-
-### 
-
-#### 🛠️ Programming Languages
-- **Java**, **C++**, **Python**, **JavaScript**, **C**, **Embedded C**, **Rust**
-
-#### 🌐 Web Development
-- **MERN**, **MEVN**, **Angular**, **Next.js**, **Django**, **Flask**, **Ruby on Rails**, **PHP**
-
-#### 📱 Mobile Development
-- **Java**, **Kotlin**, **Dart**, **Flutter**
-
-#### 🤖 AI/ML/DL
-- **TensorFlow**, **PyTorch**, **Keras**, **Hugging Face**, **Quantum ML**
-
-#### 🌩️ DevOps & Cloud
-- **AWS**, **Azure**, **Google Cloud**, **Docker**, **Kubernetes**, **Terraform**, **Jenkins**
+- **Hackathon Achievements**:  
+  - **Google Hackathon**: Built "EcoScan," an AR app for sustainable product transparency using Generative AI.  
+  - **Bank of Baroda Fintech Hackathon**: Developed a Finance Mitigation Model with 12 financial prediction models.  
+  - **Smart India Hackathon**: Created a Waste Segregation Tool leveraging blockchain and advanced AI models.  
 
 ---
 
-<h2 align="center">💼 Projects</h2>
+## 🌟 Professional Philosophy  
 
-
-
-![projects graphic](https://user-images.githubusercontent.com/58354696/132851545-d6ebc5d5-bd02-4e72-98b1-0dc8ad2b6850.gif)
-
-## **AI/ML/DL & Data Science**
-- **[Finance Mitigation Platform](#)**: Built and optimized 12 AI models for financial risk analysis using PyTorch and LangChain, integrated with LLM-based generative models for forecasting and insights.
-- **[Demand Forecasting and Optimization](#)**: Developed data pipelines and predictive models for demand forecasting and price optimization, achieving measurable revenue improvements using TensorFlow and SQL.
-- **[Customer Analytics Platform](#)**: Developed pipelines for cleaning, processing, and analyzing customer transactional data, extracting actionable insights to enhance retention strategies using Python, R, and Tableau.
-- **[LLM-Based NLP Platform](#)**: Designed and implemented NLP models using Hugging Face and PyTorch for automated text processing and analysis, integrated with CI/CD pipelines for model deployment.
-
-## **Software Development & Web Technologies**
-- **[TechSynth Website](#)**: Integrated Web3, blockchain, AR-VR, and AI-ML-DL technologies to create an interactive, advanced platform.
-- **[NGO Website](#)**: Developed a responsive website for an NGO using React to increase engagement and visibility.
-- **[Yoga Website](#)**: Built a user-friendly yoga scheduling platform using Angular, improving customer booking experiences.
-- **[Payline Site](#)**: Developed a blockchain-based payment platform using React and Node.js, leveraging cryptocurrency for secure transactions.
-
-## **IoT & Embedded Systems**
-- **[AI-Driven Drone](#)**: Designed an autonomous drone with AI-based PID control using Raspberry Pi, improving flight stability and accuracy.
-- **[Water Level Detector](#)**: Created an IoT solution for real-time water level monitoring using Arduino, providing timely alerts for water management.
-
-## **Blockchain Projects**
-- **[Sikka Blockchain](#)**: Developed a blockchain system from scratch with Node.js for secure, transparent transactions.
-- **[Save Tree Coin](#)**: Created a cryptocurrency for supporting environmental initiatives, promoting sustainability through decentralized finance.
-
-
-<h2 align="center">🏆 Hackathons</h2>
-
-- **Bank of Baroda Fintech Hackathon**: Finalist – Developed a Finance Mitigation Model.
-- **Google Hackathon**: Built an E-School App with advanced LLM and RAG system for personalized learning.
-- **Smart India Hackathon**: Created a Waste Segregation Tool using AI and Blockchain.
+I believe in creating value through technology by combining innovation, sustainability, and scalability. Whether it's analyzing complex datasets or deploying robust machine learning solutions, I strive to solve problems that make a meaningful impact.  
 
 ---
+
+## 📚 Learning & Growth  
+
+Currently delving into:  
+- Advanced NLP techniques for real-time text analysis.  
+- Scalable MLOps solutions for seamless model deployment.  
+- Enhancing data engineering workflows with distributed systems.  
+
+---
+
+## 📫 Let's Connect  
+
+- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Portfolio**: [Your Portfolio](#)  
+- **Email**: [your.email@example.com](mailto:your.email@example.com)  
 
 <h2 align="center">🎓 Education</h2>
 
 - **Bachelor of Technology (B.Tech)** in Computer Science and Engineering, Specialization in IoT
   - Netaji Subhas University of Technology (NSUT), Delhi
-- **Senior Secondary (10+2)**
-  - Army Public School, Delhi Cantt
+- **Senior Secondary (10+2) (93%)**
+  - Shanti Niketan Public School 
 
 ---
 
