@@ -44,18 +44,19 @@ With these skills, I am well-equipped to handle complex data workflows, create i
 
 ## 🏆 Highlights of My Work
 ### ML/DL Projects:
-- Built a predictive loan repayment model using RandomForestClassifier with FastAPI integration.
-- Developed a fine-tuned YOLOv8 model for waste detection and classification into recyclable/non-recyclable categories.
-- Designed a Vision Transformer (ViT) for fire and smoke detection datasets.
+- Built a predictive loan repayment model using RandomForestClassifier with [FastAPI integration](#) (Add your project link here).
+- Developed a fine-tuned YOLOv8 model for waste detection and classification into recyclable/non-recyclable categories. [Project Link](#)
+- Designed a Vision Transformer (ViT) for fire and smoke detection datasets. [Project Link](#)
 
 ### Data Engineering Projects:
-- Implemented ETL pipelines to integrate and preprocess large financial datasets for fraud detection.
-- Automated data workflows with Apache Airflow to streamline data analytics for business insights.
+- Implemented ETL pipelines to integrate and preprocess large financial datasets for fraud detection. [Project Link](#)
+- Automated data workflows with Apache Airflow to streamline data analytics for business insights. [Project Link](#)
 
 ### Hackathon Achievements:
-- **Google Hackathon:** Built "EcoScan," an AR app for sustainable product transparency using Generative AI.
-- **Bank of Baroda Fintech Hackathon:** Developed a Finance Mitigation Model with 12 financial prediction models.
-- **Smart India Hackathon:** Created a Waste Segregation Tool leveraging blockchain and advanced AI models.
+- **Google Hackathon:** Built "EcoScan," an AR app for sustainable product transparency using Generative AI. [Project Link](#)
+- **Bank of Baroda Fintech Hackathon:** Developed a Finance Mitigation Model with 12 financial prediction models. [Project Link](#)
+- **Smart India Hackathon:** Created a Waste Segregation Tool leveraging blockchain and advanced AI models. [Project Link](#)
+
 
 ## 🌟 Professional Philosophy
 I believe in creating value through technology by combining innovation, sustainability, and scalability. Whether it's analyzing complex datasets or deploying robust machine learning solutions, I strive to solve problems that make a meaningful impact.
