@@ -2,28 +2,90 @@
 
 ## 👨‍💻 About Me  
 
-I'm a passionate Software Engineer with 3+ years of experience in **AI, ML, and DL**. I enjoy tackling challenges in software engineering, data analysis, and data engineering, finding insights from data, and building robust machine learning models.  
-
-As an **ML Engineer**, I specialize in developing, training, and deploying machine learning models for real-world applications. My focus includes optimizing models for performance and scalability while leveraging advanced techniques in artificial intelligence.  
-
-As a **Data Engineer**, I have expertise in designing and maintaining efficient data pipelines, ensuring data quality and integrity, and enabling seamless integration of data across platforms for analytics and decision-making.  
-
-I'm dedicated to learning and building secure, efficient, and scalable systems while continuously expanding my knowledge and skill set.  
+🌟 **Hi, I’m Simran!**  
+A passionate **Software Engineer** with over **3 years of experience** in **AI, Machine Learning (ML), and Deep Learning (DL)**. My mission is to uncover insights from data, design robust solutions, and make a lasting impact through the power of data science and engineering.  
 
 ---
 
+### 🚀 My Expertise  
+- **ML Engineer**:  
+  🌐 Developing, training, and deploying cutting-edge **machine learning models** for real-world applications.  
+  🛠️ Specializing in optimizing models for performance, scalability, and reliability.  
+  💡 Leveraging advanced AI techniques to solve complex problems.
+
+- **Data Engineer**:  
+  🔗 Building efficient **data pipelines** for seamless data integration and analytics.  
+  🏗️ Designing systems that ensure **data quality, integrity**, and scalability.  
+  📊 Transforming raw data into actionable insights for decision-making.
+
+---
+
+### 🎯 My Vision  
+💼 My goal is to bridge the gap between **Data Science** and **Data Engineering**, becoming a leader in both fields.  
+🌟 I’m dedicated to creating **secure, scalable, and efficient systems**, while continuously enhancing my expertise.  
+
+---
+
+### 📈 My Highlights  
+- **Machine Learning**: Delivering high-performance predictive models for diverse applications.  
+- **Data Engineering**: Architecting robust pipelines and ensuring seamless data workflows.  
+- **AI Innovation**: Driving business impact through AI-driven solutions.  
+
+---
+
+📊 **Fun Stats**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simran1devloper&theme=dracula)  
+![Profile Views](https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20Views&color=0e75b6&style=flat-square)  
+
+---
+
+
+
 ## 💻 Technical Skills  
 
-### Core Expertise  
-- **Programming Languages**: Python, R, SQL, JavaScript  
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn  
-- **Deep Learning**: Keras, Vision Transformers, LSTMs, GANs  
-- **Data Engineering**: Apache Airflow, Apache Kafka, Spark, ETL Pipelines  
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Databases**: MySQL, PostgreSQL, MongoDB  
-- **Cloud Platforms**: AWS (S3, EC2, Lambda), Azure ML, GCP  
-- **DevOps Tools**: Docker, Kubernetes, Jenkins  
-- **Version Control**: Git, GitHub, GitLab  
+---
+
+### 🌟 **Core Expertise**
+
+#### 🧑‍💻 **Programming Languages**  
+- **Python**, **R**, **SQL**, **JavaScript**  
+
+#### 🤖 **Machine Learning Frameworks**  
+- **TensorFlow**, **PyTorch**, **Scikit-learn**  
+
+#### 🧠 **Deep Learning**  
+- **Keras**, **Vision Transformers**, **LSTMs**, **GANs**  
+
+#### 🔧 **Data Engineering**  
+- **Apache Airflow**, **Apache Kafka**, **Spark**, **ETL Pipelines**  
+
+#### 📊 **Data Visualization**  
+- **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**  
+
+#### 🗃️ **Databases**  
+- **MySQL**, **PostgreSQL**, **MongoDB**  
+
+#### ☁️ **Cloud Platforms**  
+- **AWS** (S3, EC2, Lambda), **Azure ML**, **GCP**  
+
+#### 🔧 **DevOps Tools**  
+- **Docker**, **Kubernetes**, **Jenkins**  
+
+#### 🌐 **Version Control**  
+- **Git**, **GitHub**, **GitLab**  
+
+---
+
+### 🚀 **Other Skills & Tools**  
+- **NLP** (Natural Language Processing)  
+- **Large Language Models (LLMs)**  
+- **LangChain** for AI Integration  
+- **Generative AI** (Generative Adversarial Networks, Autoencoders)  
+
+---
+
+With these skills, I am well-equipped to handle complex data workflows, create intelligent machine learning models, and design scalable cloud-based solutions!  
+
 
 ---
 
