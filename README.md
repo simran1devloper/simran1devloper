@@ -1,6 +1,6 @@
 # 👩‍💻 About Me
 
-![Snake animation](https://github.com/simran1devloper/simran1devloper/blob/output/github-contribution-grid-snake.svg)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Simran!;AI+%26+Software+Developer;Generative+AI+%7C+LLMs+%7C+Agentic+Apps;Data+Science+%7C+Data+Engineering+%7C+Analytics;Let’s+build+intelligent+systems+together!&center=true&size=22)
 
 
 🌟 Hi, I’m **Simran** — an **AI & Software Development Engineer** with over **3 years of experience** building intelligent systems, scalable software, and impactful data-driven solutions.  
