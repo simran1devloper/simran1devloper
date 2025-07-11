@@ -1,7 +1,6 @@
 # 👩‍💻 About Me
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+Simran!;AI+%26+Software+Developer;Generative+AI+%7C+LLMs+%7C+Agentic+Apps;Data+Science+%7C+Data+Engineering+%7C+Analytics;Let’s+build+intelligent+systems+together!&center=true&size=22)
-
+AI & ML Engineer | Software Developer | Creating Intelligent LLM & ML Applications
 
 🌟 Hi, I’m **Simran** — an **AI & Software Development Engineer** with over **3 years of experience** building intelligent systems, scalable software, and impactful data-driven solutions.  
 I combine my passion for **Generative AI, LLMs, and Agentic Applications** with strong foundations in **Data Structures, Data Science, Data Engineering, and Data Analytics** to deliver **innovative, reliable, and efficient technology.**
