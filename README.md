@@ -1,8 +1,12 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://github.com/simran1devloper/simran1devloper/blob/main/git_portfoliio.gif" height=100 width="100" alt="Welcome Animation">
+  <img src="https://github.com/simran1devloper/simran1devloper/blob/main/git_portfoliio.gif"  width="400" alt="Welcome Animation">
 </p>
-
+<h1 align="center">👋 Hi, I'm Simran!</h1>
+<h3 align="center">🚀 AI & ML Engineer | Software Developer | Building Intelligent LLM & ML Applications</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile views counter" />
+</p>
 
 ---
 
