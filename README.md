@@ -49,10 +49,15 @@ I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipe
 ---
 
 <!-- Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simran1devloper&theme=dark">
-  <img alt="Simran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran1devloper&theme=default">
-</picture>
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&count_private=true&theme=gotham&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1devloper&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180" />
+</div>
+
+[![Simran's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simran1devloper&bg_color=0c1014&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)](https://github.com/simran1devloper)
+
+---
 
 
 ---
