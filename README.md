@@ -1,7 +1,5 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://github.com/simran1devloper/simran1devloper/blob/main/git_portfoliio.gif"  width="400" alt="Welcome Animation">
-</p>
+
 <h1 align="center">👋 Hi, I'm Simran!</h1>
 <h3 align="center">🚀 AI & ML Engineer | Software Developer | Building Intelligent LLM & ML Applications</h3>
 <p align="center">
@@ -56,18 +54,18 @@
 
 ## 🏆 Highlights of My Work
 
-### 🛒 Drone E-Commerce Website Recommendation System — [GitHub](#)
+### 🛒 Drone E-Commerce Website Recommendation System — [https://github.com/simran1devloper/Drone-E-Commerce-Website](#)
 - Designed and deployed a **recommendation engine** using collaborative + content-based filtering.
 - Implemented ranking algorithms optimizing recommendations based on **user preferences & drone specs**.
 - Increased **user engagement & conversion rates by 35%**.
 - **Tech:** Python, scikit-learn, Pandas, Flask, React.js.
 
-### 🤖 Developer Co-Pilot (Beckn Knowledge AI Agent) — [GitHub](#)
+### 🤖 Developer Co-Pilot (Beckn Knowledge AI Agent) — [https://github.com/simran1devloper/copilot_agent](#)
 - Built an **AI agent** that parses GitHub repos, understands prompts, modifies code using **AST parsing**, and raises PRs.
 - Integrated **context-aware prompt-to-app generation pipeline**, reducing onboarding time by **40%**.
 - **Tech:** LangChain, Python, GitHub API, Microservices.
 
-### 💹 Finance Mitigation Model – AI-Driven Financial Risk Platform — [GitHub](#)
+### 💹 Finance Mitigation Model – AI-Driven Financial Risk Platform — [https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-](#)
 - Developed AI platform with **12+ ML/DL models** for operational, market & credit risk.
 - Achieved **92% accuracy** in fraud detection and risk prediction.
 - Integrated **RAG pipeline** for real-time financial insights.
