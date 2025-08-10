@@ -17,24 +17,7 @@ I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipe
 
 ---
 
-## 🚀 What I Do
 
-### 🤖 **AI & Software Development**
-- Architect and deploy **intelligent agentic AI systems** integrating LLMs, LangChain, and microservices.
-- Build **end-to-end AI-powered applications** combining backend intelligence with interactive web UIs.
-- Develop scalable and maintainable software with **best engineering practices**.
-
-### 📊 **Data Science & Machine Learning**
-- Implement advanced **ML/DL models** for recommendation, fraud detection, and computer vision.
-- Apply **NLP, Vision Transformers, GANs, and RAG pipelines** for real-world problem-solving.
-- Optimize ML performance and deployment via **MLOps & scalable APIs**.
-
-### 🏗️ **Data Engineering & Analytics**
-- Design **real-time data pipelines** with Airflow, Kafka, and Spark.
-- Ensure **data quality, integrity, and accessibility** for downstream applications.
-- Build **interactive dashboards** and analytics platforms.
-
----
 
 ## 🛠 Tech Stack
 
@@ -66,20 +49,8 @@ I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipe
 ---
 
 <!-- Stats Card -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&custom_title=Simran's GitHub Overview&theme=catppuccin_mocha&hide=stars,issues">
-    <img alt="Simran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&custom_title=Simran's GitHub Overview&theme=catppuccin_latte&hide=stars,issues">
-  </picture>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&custom_title=Simran's GitHub Overview&theme=github_dark)](https://github.com/simran1devloper)
 
-<!-- Languages Card -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1devloper&layout=donut&langs_count=6&theme=catppuccin_mocha&hide=Jupyter%20Notebook">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1devloper&layout=compact&langs_count=6&theme=catppuccin_latte&hide=Jupyter%20Notebook">
-  </picture>
-</p>
 
 
 ---
