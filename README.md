@@ -13,50 +13,52 @@
 
 ## 👩‍💻 About Me
 🌟 Hi, I’m **Simran** — an **AI & Software Development Engineer** with over **3 years of experience** building intelligent systems, scalable software, and impactful data-driven solutions.  
-I combine my passion for **Generative AI, LLMs, and Agentic Applications** with strong foundations in **Data Structures, Data Science, Data Engineering, and Data Analytics** to deliver **innovative, reliable, and efficient technology.**
+I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipelines**, with hands-on expertise in **data engineering, analytics, and full-stack AI product development**.
 
 ---
 
 ## 🚀 What I Do
 
 ### 🤖 **AI & Software Development**
-- Designing & developing **Agentic AI applications** using LLMs, LangChain, and Generative AI.
-- Building scalable systems that integrate AI seamlessly into real-world workflows.
-- Writing high-performance, maintainable code with best practices.
+- Architect and deploy **intelligent agentic AI systems** integrating LLMs, LangChain, and microservices.
+- Build **end-to-end AI-powered applications** combining backend intelligence with interactive web UIs.
+- Develop scalable and maintainable software with **best engineering practices**.
 
 ### 📊 **Data Science & Machine Learning**
-- Creating robust ML/DL models for real-world problems.
-- Translating complex data into actionable insights.
-- Exploring NLP, Vision Transformers, GANs, and RL.
+- Implement advanced **ML/DL models** for recommendation, fraud detection, and computer vision.
+- Apply **NLP, Vision Transformers, GANs, and RAG pipelines** for real-world problem-solving.
+- Optimize ML performance and deployment via **MLOps & scalable APIs**.
 
 ### 🏗️ **Data Engineering & Analytics**
-- Architecting **real-time data pipelines** with Airflow, Kafka, Spark.
-- Ensuring data quality & accessibility for downstream AI applications.
-- Delivering dashboards & reports for decision-making.
+- Design **real-time data pipelines** with Airflow, Kafka, and Spark.
+- Ensure **data quality, integrity, and accessibility** for downstream applications.
+- Build **interactive dashboards** and analytics platforms.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 **Programming Languages**
+### 💻 **Programming & Scripting**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,r,js,sql" />
 </p>
 
-### 🤖 **AI & ML Frameworks**
+### 🤖 **AI, ML & Data Science**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /> 
-  <img src="https://skillicons.dev/icons?i=scikitlearn" /> 
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
   <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
 </p>
 
-### 📡 **Data Engineering & Big Data**
+### ⚡ **Data Engineering & Big Data**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,react" />
 </p>
 
-### ☁️ **Cloud & DevOps**
+### ☁️ **Cloud, APIs & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github" />
 </p>
@@ -75,15 +77,27 @@ I combine my passion for **Generative AI, LLMs, and Agentic Applications** with 
 ---
 
 ## 🏆 Highlights of My Work
-- **Agentic AI Apps** — Built LLM-based dynamic decision-making agents.
-- **Vision AI** — Fire & smoke detection using Vision Transformers.
-- **Generative AI Tools** — GPT-powered creative & business automation.
-- **Hackathon Wins** — Google Hackathon, Bank of Baroda Fintech, Smart India Hackathon.
-- **C4GT 2025 Contributor** — Contributed to **Beckn Protocol's AI Developer Co-Pilot**, enhancing its LangChain-based RAG architecture for developer productivity.
+
+### 🛒 Drone E-Commerce Website Recommendation System — [GitHub](#)
+- Designed and deployed a **recommendation engine** using collaborative + content-based filtering.
+- Implemented ranking algorithms optimizing recommendations based on **user preferences & drone specs**.
+- Increased **user engagement & conversion rates by 35%**.
+- **Tech:** Python, scikit-learn, Pandas, Flask, React.js.
+
+### 🤖 Developer Co-Pilot (Beckn Knowledge AI Agent) — [GitHub](#)
+- Built an **AI agent** that parses GitHub repos, understands prompts, modifies code using **AST parsing**, and raises PRs.
+- Integrated **context-aware prompt-to-app generation pipeline**, reducing onboarding time by **40%**.
+- **Tech:** LangChain, Python, GitHub API, Microservices.
+
+### 💹 Finance Mitigation Model – AI-Driven Financial Risk Platform — [GitHub](#)
+- Developed AI platform with **12+ ML/DL models** for operational, market & credit risk.
+- Achieved **92% accuracy** in fraud detection and risk prediction.
+- Integrated **RAG pipeline** for real-time financial insights.
+- **Tech:** Deep Learning, NLP, Flask, Data Engineering.
 
 ---
 
-## 🏅 Achievements & Hackathons
+## 🏅 Achievements & Contributions
 <p align="left">
   <img src="https://img.shields.io/badge/🥇_Google_Hackathon-EcoScan_Generative_AI_App-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈_Bank_of_Baroda-Fintech_AI_Risk_Mitigation-purple?style=for-the-badge" />
