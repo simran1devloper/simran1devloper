@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="assets/header.gif" width="80" alt="Welcome Animation">
+  <img src="https://github.com/simran1devloper/simran1devloper/blob/main/git_portfoliio.gif" width="80" alt="Welcome Animation">
 </p>
 
 
