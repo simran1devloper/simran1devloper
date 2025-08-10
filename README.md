@@ -95,7 +95,7 @@
 <p align="left">
   <a href="mailto:simran.101.simran.1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/simran-%E2%80%8E-1245a12b1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/simran.101.simran.1"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+
 </p>
 
 ---
