@@ -65,14 +65,22 @@ I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipe
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&count_private=true&theme=gotham&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simran1devloper&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180" />
-</div>
+<!-- Stats Card -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&custom_title=Simran's GitHub Overview&theme=catppuccin_mocha&hide=stars,issues">
+    <img alt="Simran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simran1devloper&show_icons=true&include_all_commits=true&custom_title=Simran's GitHub Overview&theme=catppuccin_latte&hide=stars,issues">
+  </picture>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=simran1devloper&theme=gotham&hide_border=true)](https://git.io/streak-stats)  
-[![Simran's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simran1devloper&bg_color=0c1014&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)](https://github.com/simran1devloper)
+<!-- Languages Card -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1devloper&layout=donut&langs_count=6&theme=catppuccin_mocha&hide=Jupyter%20Notebook">
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran1devloper&layout=compact&langs_count=6&theme=catppuccin_latte&hide=Jupyter%20Notebook">
+  </picture>
+</p>
+
 
 ---
 
