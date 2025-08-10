@@ -1,22 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" width="80" alt="Fan GIF">
+  <img src="assets/header.gif" width="80" alt="Welcome Animation">
 </p>
 
-<h1 align="center">👋 Hi, I'm Simran!</h1>
-<h3 align="center">🚀 AI & ML Engineer | Software Developer | Building Intelligent LLM & ML Applications</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simran1devloper&label=Profile%20Views&color=1E90FF&style=plastic" alt="Profile views counter" />
-</p>
 
 ---
-
-## 👩‍💻 About Me
-🌟 Hi, I’m **Simran** — an **AI & Software Development Engineer** with over **3 years of experience** building intelligent systems, scalable software, and impactful data-driven solutions.  
-I specialize in **Generative AI, LLM-based agentic systems, and advanced ML pipelines**, with hands-on expertise in **data engineering, analytics, and full-stack AI product development**.
-
----
-
 
 
 ## 🛠 Tech Stack
