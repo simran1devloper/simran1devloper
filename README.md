@@ -54,22 +54,41 @@
 
 ## 🏆 Highlights of My Work
 
-### 🛒 Drone E-Commerce Website Recommendation System — [https://github.com/simran1devloper/Drone-E-Commerce-Website](#)
-- Designed and deployed a **recommendation engine** using collaborative + content-based filtering.
-- Implemented ranking algorithms optimizing recommendations based on **user preferences & drone specs**.
-- Increased **user engagement & conversion rates by 35%**.
-- **Tech:** Python, scikit-learn, Pandas, Flask, React.js.
+### 🛒 [DroneHub – Modern Drone & IoT E-Commerce Platform](https://github.com/simran1devloper/Drone-E-Commerce-Website)
+**DroneHub** is a full-stack e-commerce platform tailored for the **drone and IoT device market**. It provides a complete solution for selling professional drones, tools, parts, accessories, and IoT devices — serving both enthusiasts and professionals worldwide. The platform implements **role-based authentication**, **real-time inventory management**, and **secure payment processing**, following microservices architecture principles for scalability and maintainability.
 
-### 🤖 Developer Co-Pilot (Beckn Knowledge AI Agent) — [https://github.com/simran1devloper/copilot_agent](#)
-- Built an **AI agent** that parses GitHub repos, understands prompts, modifies code using **AST parsing**, and raises PRs.
-- Integrated **context-aware prompt-to-app generation pipeline**, reducing onboarding time by **40%**.
-- **Tech:** LangChain, Python, GitHub API, Microservices.
+**Key Features:**
+- **Tech Stack:** Next.js 15, Nest.js, GraphQL, MongoDB
+- **Authentication:** JWT-based with Role-Based Access Control (RBAC)
+- **Payments:** Integrated Stripe with webhook support
+- **Design:** Mobile-first, responsive UI with Tailwind CSS
+- **Real-Time Updates:** GraphQL subscriptions
+- **Architecture:** Microservices-ready with Docker
+- **Type Safety:** 100% TypeScript across frontend and backend
 
-### 💹 Finance Mitigation Model – AI-Driven Financial Risk Platform — [https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-](#)
-- Developed AI platform with **12+ ML/DL models** for operational, market & credit risk.
-- Achieved **92% accuracy** in fraud detection and risk prediction.
-- Integrated **RAG pipeline** for real-time financial insights.
-- **Tech:** Deep Learning, NLP, Flask, Data Engineering.
+---
+
+### 🤖 [Developer Co-Pilot – Beckn Knowledge AI Agent](https://github.com/simran1devloper/copilot_agent)
+**Developer Co-Pilot** is an AI-powered assistant for the **Beckn Protocol ecosystem**, designed to help developers quickly build Beckn-compliant systems. It parses GitHub repositories, understands developer prompts, modifies code via **AST parsing**, and raises pull requests automatically. The system includes a **prompt-to-app generation pipeline** that significantly reduces onboarding time for new contributors.
+
+**Key Features:**
+- **Tech Stack:** LangChain, Python, GitHub API, Microservices
+- **Code Understanding:** Parses and analyzes GitHub repositories
+- **Automation:** AST-based code modification and automated PR creation
+- **Productivity:** Reduces developer onboarding time by 40%
+- **Integration:** Context-aware prompt-to-app pipeline
+
+---
+
+### 💹 [Finance Mitigation Model – AI-Driven Financial Risk Platform](https://github.com/simran1devloper/FinanciFinancial-Risk-Analytics-Systems-)
+**Finance Mitigation Model** is an AI platform for **financial risk detection and mitigation**, covering operational, market, and credit risk scenarios. It incorporates **12+ ML/DL models** for fraud detection and predictive analytics, achieving high accuracy while providing real-time insights through an integrated **RAG (Retrieval-Augmented Generation) pipeline**.
+
+**Key Features:**
+- **Tech Stack:** Deep Learning, NLP, Flask, Data Engineering
+- **Model Variety:** 12+ ML/DL models for diverse risk detection
+- **Accuracy:** Achieved 92% in fraud detection and risk prediction
+- **Insights:** Real-time analytics via RAG pipeline
+- **Coverage:** Operational, market, and credit risk domains
 
 ---
 
