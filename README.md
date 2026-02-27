@@ -34,11 +34,11 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=flask,react" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming-black?logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600?logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis%20Streams-Event%20Streaming-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Flink-Stream%20Processing-E6526F?logo=apacheflink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20SQS-Queue-FF9900?logo=amazonaws&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
 </p>
 
 ### ☁️ **Cloud, APIs & DevOps**
