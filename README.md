@@ -54,19 +54,21 @@
 
 ## 🏆 Highlights of My Work
 
-### 🛒 [DroneHub – Modern Drone & IoT E-Commerce Platform](https://github.com/simran1devloper/Drone-E-Commerce-Website)
-**DroneHub** is a full-stack e-commerce platform tailored for the **drone and IoT device market**. It provides a complete solution for selling professional drones, tools, parts, accessories, and IoT devices — serving both enthusiasts and professionals worldwide. The platform implements **role-based authentication**, **real-time inventory management**, and **secure payment processing**, following microservices architecture principles for scalability and maintainability.
+### 🤖 [Developer Research AI Agent – Autonomous Technical Research System]()
 
+A graph-based AI agent designed to perform deep technical research using LangGraph orchestration, LLM reasoning (Ollama/Groq), and Qdrant-based long-term memory.
 **Key Features:**
-- **Tech Stack:** Next.js 15, Nest.js, GraphQL, MongoDB
-- **Authentication:** JWT-based with Role-Based Access Control (RBAC)
-- **Payments:** Integrated Stripe with webhook support
-- **Design:** Mobile-first, responsive UI with Tailwind CSS
-- **Real-Time Updates:** GraphQL subscriptions
-- **Architecture:** Microservices-ready with Docker
-- **Type Safety:** 100% TypeScript across frontend and backend
+*   **Dual-Mode Intelligent Routing**: Automatically distinguishes between "Quick Mode" (direct LLM synthesis) and "Deep Research Mode" (multi-step web search and gap analysis).
+*   **Context-Aware Persistence**: Integrated with **Qdrant Vector Database** for long-term memory, allowing the agent to recall past interactions and build upon previous research.
+*   **Adaptive Research Loop**: In Deep Mode, the agent performs iterative "Gap Analysis," refining its search queries until a specific confidence threshold is met.
+*   **Streamlit Interactive Dashboard**: A premium UI featuring real-time token tracking, thread management, and a transparent view of the agent's "thinking" process (node execution path).
+*   **Robust Guardrails**: Native telemetry for budgeting tokens and managing iteration depth to ensure cost-effective and timely responses.
+*   **Human-in-the-Loop Clarification**: Automatically triggers a high-performance clarification flow via the **Intent Orchestrator** when query intent is ambiguous or non-technical.
+*    **Graph Generation**: Automatically generates a visual representation of the research process and high-level architecture of technical systems, aiding in understanding and communication.
 
----
+It integrates planning, memory, tool usage, and synthesis to generate structured technical insights — moving beyond chatbots toward real agentic AI workflows.
+**Tech Stack:** Python, LangGraph, Ollama / Groq, Qdrant, Tavily, Streamlit
+
 
 ### 🤖 [Developer Co-Pilot – Beckn Knowledge AI Agent](https://github.com/simran1devloper/copilot_agent)
 **Developer Co-Pilot** is an AI-powered assistant for the **Beckn Protocol ecosystem**, designed to help developers quickly build Beckn-compliant systems. It parses GitHub repositories, understands developer prompts, modifies code via **AST parsing**, and raises pull requests automatically. The system includes a **prompt-to-app generation pipeline** that significantly reduces onboarding time for new contributors.
