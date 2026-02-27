@@ -22,6 +22,11 @@
   <img src="https://skillicons.dev/icons?i=scikitlearn" />
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-orange?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-orange?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet?logo=airbyte&logoColor=white" />
+  
+  
 </p>
 
 ### ⚡ **Data Engineering & Big Data**
@@ -29,6 +34,11 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=flask,react" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming-black?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Message%20Broker-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis%20Streams-Event%20Streaming-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Flink-Stream%20Processing-E6526F?logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20SQS-Queue-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud, APIs & DevOps**
