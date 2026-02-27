@@ -24,7 +24,8 @@
   <img src="https://skillicons.dev/icons?i=pandas" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40"/>
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/crewai.svg" height="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/crewai.svg" height="40"/>
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/light/langgraph.svg" height="40"/>
   
   
   
