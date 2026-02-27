@@ -22,9 +22,10 @@
   <img src="https://skillicons.dev/icons?i=scikitlearn" />
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-orange?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-Agent%20Orchestration-orange?logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet?logo=airbyte&logoColor=white" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/dark/crewai.svg" height="40"/>
+  
   
   
 </p>
